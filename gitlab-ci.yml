@@ -6,13 +6,13 @@ variables:
 
 test:
   script:
-  - hugo
+  - hugo -themesDir ./themes/
   except:
   - master
 
 pages:
   script:
-  - hugo
+  - hugo --themesDir ./themes/
   artifacts:
     paths:
     - public
