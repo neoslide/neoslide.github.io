@@ -1,0 +1,28 @@
+- id: blogTitle
+  translation: Последна објава
+- id: readMore
+  translation: Прочитај повеќе
+- id: viewAllPost
+  translation: Види ги сите објави
+- id: share
+  translation: Сподели
+- id: aboutAuthor
+  translation: повеќе за авторот
+- id: authorsPosts
+  translation: Објави од авторот
+- id: all
+  translation: Сите
+- id: about
+  translation: За нас
+- id: services
+  translation: Сервис
+- id: portfolio
+  translation: Портфолио
+- id: team
+  translation: Тим
+- id: pricing
+  translation: Ценовник
+- id: blog
+  translation: Блог
+- id: contact
+  translation: Контакт

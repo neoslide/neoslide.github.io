@@ -1,0 +1,12 @@
+name = "Neoslide.mk"
+license = "CC BY 3.0"
+licenselink = "https://creativecommons.org/licenses/by/3.0/"
+description = ""
+homepage = ""
+tags = ['landing-page', 'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'portfolio', 'single-page', 'dark', 'clean', 'simple', 'company', 'creative', 'contact-form', 'custom-themes', 'mobile']
+features = ['bootstrap','responsive']
+min_version = "0.58.0"
+
+[author]
+  name = "NeoSlide"
+  homepage = "https://neoslide.mk/"
