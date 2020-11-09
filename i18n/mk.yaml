@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Последна објава
+  translation: Последни објава
 - id: readMore
   translation: Прочитај повеќе
 - id: viewAllPost
@@ -15,7 +15,7 @@
 - id: about
   translation: За нас
 - id: services
-  translation: Сервис
+  translation: Сервиси
 - id: portfolio
   translation: Портфолио
 - id: team
