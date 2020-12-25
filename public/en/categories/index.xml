@@ -2,14 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NeoSlide</title>
-    <link>https://examplesite.com/en/categories/</link>
+    <link>https://neoslide.gitlab.io/website/en/categories/</link>
     <description>Recent content in Categories on NeoSlide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 NeoSlide</copyright>
-    
-	<atom:link href="https://examplesite.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 NeoSlide</copyright><atom:link href="https://neoslide.gitlab.io/website/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

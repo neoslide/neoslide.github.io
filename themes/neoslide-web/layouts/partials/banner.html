@@ -14,7 +14,15 @@
 		</div>
 		{{ end }}
 		<!-- <h1>{{ .title | markdownify }}</h1> -->
-		<h1><img src="./images/neoslide_full.png"></h1>
+		<h1>
+			<div>
+				<object>
+					<embed type="image/svg+xml" media="(min-width: 800px)" src="./images/logo_text_hz_no_bg.svg" width="100%"/>
+					<embed type="image/svg+xml" media="(max-width: 800px)" src="./images/logo_text_bg.svg" width="100%"/>
+				</object>
+			</div>
+		</h1>
+
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
