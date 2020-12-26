@@ -1,6 +1,6 @@
 ---
 title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
+date: 2020-10-12T14:51:12+06:00
 author: Mark Dinn
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg

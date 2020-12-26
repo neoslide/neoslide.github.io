@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "NeoSlide"
-  content : "едноставно решение за дигитален маркетинг вашите екрани!"
+  content : "Eдноставно решение за дигитален маркетинг на вашите екрани!"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Дознај повеќе"
     link : "#services"

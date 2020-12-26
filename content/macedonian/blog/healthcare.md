@@ -1,10 +1,10 @@
 ---
 title: "Healthcare"
 date: 2020-09-12T14:51:12+06:00
-author: Mark Dinn
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-description : "This is meta description"
+author: neoslide
+image_webp: images/blog/healthcare.webp
+image: images/blog/healthcare.jpg
+description : "Healthcare usage"
 ---
 
 Healthcare providers constantly deal with important, and often-life-threatening issues. Hospitals and clinics must be accessible and well suited to any visitor or patient, regardless of their age or health. Not surprisingly, these facilities cater to a constant flow of visitors who are often unfamiliar with their surroundings. And to top it offâ€¦ Staff, visitors and patients need to be kept informed, motivated, and entertained throughout the day. Healthcare providers must ensure the health and well-being of everyone. The larger the facility, the more complex the challenge.
