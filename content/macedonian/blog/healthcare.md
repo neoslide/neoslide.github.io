@@ -1,22 +1,21 @@
 ---
-title: "Healthcare"
+title: "Здравствени установи"
 date: 2020-09-12T14:51:12+06:00
 author: neoslide
 image_webp: images/blog/healthcare.webp
 image: images/blog/healthcare.jpg
-description : "Healthcare usage"
+description : "Употреба во здравствени установи"
 ---
+Здравствените установи секојдневно се справуваат со сериозни и често проблеми кои го загрозуваат животот. Болниците и клиниките секогаш мора да бидат лесно достапни и лесни за снаоѓање за секој посетител или пациент, без разлика на нивната возраст или здравствена состојба. Не е за изненадување фактот што во овие установи често се наоѓаат многу посетители кои не се доволно запознаени со средината околу нив. Затоа обезбедувањето на вистинските информации за нив е од огромно значење, а што е поголемата установата толку овој предизвик е покомплексен. NeoSlide Digital Signage нуди решение за овој проблем и многу повеќе.
 
-Healthcare providers constantly deal with important, and often-life-threatening issues. Hospitals and clinics must be accessible and well suited to any visitor or patient, regardless of their age or health. Not surprisingly, these facilities cater to a constant flow of visitors who are often unfamiliar with their surroundings. And to top it offâ€¦ Staff, visitors and patients need to be kept informed, motivated, and entertained throughout the day. Healthcare providers must ensure the health and well-being of everyone. The larger the facility, the more complex the challenge.
+Скоро во секоја институција во самото лоби постои дигитален екран што е првото нешто што ќе го видат посетителите. Со помош на NeoSlide можете на овој екран да ги прикажете најважните информации на Вашата установа во Вашето лоби со помош на слики или видеа. Дополнително на овој ектран може да прикажувате дополнителни информации кои ги нуди NeoSlide како што се информации за временската прогноза, загадувањето на воздухот итн. Тимот на NeoSlide е отоворен за соработка и лесно може да додаде Ваши web сервиси во рамките на NeoSlide Digital Signage. Со сето ова значително го подобрувате самото корисничко искуство и тоа на самиот влез во Вашата установа.
 
-Hospital and clinic lobbies benefit from message displays that welcome patients and visitors 24/7. Use NeoSlide to display the most important information about the facility right in your lobby using images, videos, additional information like weather forecast or air quality or simply add your own web services etc. This is one of many opportunities to deliver a better experience.
+Со помош на дигитални екрани распоредени на различна локација лесно може да им се помогне на посетителите да се снајдат низ Вашата установа. На пример, со прикажување на мапа можете лесно да ги насочите кон најразлични специјалисти, салата за итни случаи, излез итн. или пак можете да креирате или додадете видео анимации коишто на еден модерен начин ќе му помогнат на посетителот да се снајде.
 
-Displays can also also be used to help people find their way in your facility. For example, redirect people to specific areas, like meeting with a triage specialist in an emergency room or clinic. You can add map of your facility or create a great video animation that will show the way around your hospital.
+Во зависност од специјализираноста (хирургија, стоматологија, офтамологија ...) содржините во NeoSlide можат да бидат од едукативна природа. На пример, можат да се прикажуваат најразлични програми и совети, објаснувања за одредени медицински процедури, совети за здрава исхрана, иновации во медицината, информации за користењето на одредени лекови и многу повеќе. Исто така на влезот од секоја ординација може да инсталирате таблет кадешто ќе прикажуваат информации за самата ординација или за специјалистот којшто работи во неа. 
 
-Depending on the specialty ( surgery, dentistry, eye care, etcâ€¦), digital signage content can be educational in nature. For example, lobby displays can be programmed to show videos that explain medical procedures, healthy eating tips and guidelines, medical innovations, drug information and moreâ€¦ Also, in front of every ordination you can add small tablet displays, where you can show information about the ordination or information about the doctor that is working in it.
+Дигитален екран може да додадете и во самите чекални на коишто можете да прикажувате содржини од забавен карактер со кои на луѓето кои чекаат привидно можете да им го исполните времето на чекање.
 
-Displays installed in common areas can play a mix of empowering, engaging and motivational content while lunch room displays can present daily menus and specials.
+Постојат многу начини да се подобри корисничкото искуство во здравството и здравствените установи со користење на системот на Digital Signage, а NeoSlide го нуди токму тоа.
 
-There are a lot of ways to improve health care facilities with the benefits of using digital signage system and thus improving patientâ€™s impression about your facility. And NeoSlide can offer all you need.
-
-And much more...
+И многу повеќе ...

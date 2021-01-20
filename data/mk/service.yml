@@ -24,6 +24,16 @@ service:
       content : 
 
     # service item loop
+    - name : Реално-временска синхронизација
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : 
+
+    # service item loop
+    - name : Далечинско управување на уредите 
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : 
+
+    # service item loop
     - name : Реално-временска сингронизација
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : 

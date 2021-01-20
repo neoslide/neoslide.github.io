@@ -1,5 +1,5 @@
 ---
-title: "Healthcare"
+title: "Ресторани и кафетерии"
 date: 2020-09-12T14:51:12+06:00
 author: neoslide
 image_webp: images/blog/healthcare.webp
@@ -7,16 +7,14 @@ image: images/blog/healthcare.jpg
 description : "Healthcare usage"
 ---
 
-Modernize your dinning experience using NeoSlide Menu and NeoSlide Special Offers options. Create your own digital menu - easy, fast and simple, with only few clicks. Display your delicious meals on your tablets, closer to your customers.
+Модернизирајте го Вашиот ресторан со NeoSlide Digital Signage решението! Прикажете ги Вашите специјалитет на голем дигитален екран, Вашите специјални понуди на денот, прикажете ги Вашите менија на таблети, бидете поблиску до Вашите гости - сето тоа брзо, лесно и едноставно, со само неколку клика. Искористете ги екраните во Вашиот простор, изнајмувајќи ги за рекламни цели, а со тоа зголемете ги Вашите месечни приходи.
 
-With NeoSlide at your restaurant, you get much more than digital signage! You can install NeoSlide app on your tablets and activate the Menu option so you can display your own menu directly to your clients in a modern and effective way where users can simply swipe between unlimited number of pages in your menu. Also, if you have some special offers in your restaurants, where your customers can enjoy some discounts that you offer or exclusive meals, you can activate NeoSlide Special Offer option and bring you great offers closer to your customers.
+Со NeoSlide добивате многу повеќе од само решение за Digital Signage. Инсталирајте ја NeoSlide апликацијата на Вашите таблети и активирајте ја опцијата за дигитални менија и со тоа прикажете го Вашето мени на таблет пред самите клиенти на еден модерен, софистициран и ефективен начин. Доколку Вашиот ресторан нуди специјални понуди, каде гостите ќе може да уживаат во ексклузивни дневни специјалитети или попусти на одредени јадења и пијалоци, лесно може да ја активирате опцијата за специјални понуди, подигајќи ја свесноста кај гостите за постоење на истите и доближувајќи ги поблиску до нив. Опциите за дигитално мени и специјални понуди се многу едноставни за користење, само припремете ги сликите кои сакате да се прикажуваат, организирајте ги во група и додадете ги на NeoSlide администраторски интерфејс. За неколку секунди истите веднаш ќе се прикажат на сите Ваши уреди.
 
-NeoSlide Menus and Special Offers are very easy to use. Just prepare your images and upload them in NeoSlide admin interface.Â 
+Дали некогаш сте приметиле грешка во менијата кои веќе сте ги испринтале или пак во Вашите промотивни материјали кои стојат во Вашиот објект? Дали нивната содржина е веќе застарена па е потребно да се изработат одново? Или пак сте направиле промена на цените во Вашето мени, па сега морате во сите менија рачно да корегирате? Со NeoSlide сето ова е минато и нема да имате потреба од грижи. Едноставно, направете корекција на Вашата слика, тргнете ја старата слика од администраторскиот интерфејс и додадете ја новата, со неколку клика и синхронизација во реално време. Истото важи и за специјалните понуди. Без разликата дали Вашите понуди се менуваат на месечна, неделна ,дневна база или пак можеби траат само неклку часа, лесно, едноставно и ефикасно презентирајте им ги на Вашите гости, само со NeoSlide!
 
-You noticed a mistake in your menu or your prices changed and now you have to reprint all your menus? With NeoSLide you wonâ€™t have that kind of worries, just change and upload your new menu image and thatâ€™s it, your new menu is instantly available to your customers. Or your special offer is no more active or the items are out of stock? Simply remove the special offer item from your Special Offers and it wonâ€™t be visible anymore to your customers. In a blink of an eye!
+Доколку сте сопственик на повеќе ресторани, а сакате во секој ресторан да имате посебно мени, да се прикажуваат посебни реклами или да имате различни специјални понуди и саката истите да ги менаџирате од една централизирана локација, со NeoSlide воопшто не треба да се грижите! NeoSlide ви нуди можност да ги групирате Вашите екрани и таблети во т.н кластери и  на секој кластер да прикажувате посебна плејлиста од реклами, менија и специјални понуди.
 
-Do you have more than one restaurant or more than one menu? No problem, just create multiple menus and special offers in NeoSlide, group your tablets in clusters accordingly and set different menu on different cluster.
+Но што дококу имате повеќе големи екрани во Вашиот објект? Зошто не би ги искористиле за приказ на видео реклами, слики, промоции, информации, временска прогноза, информации за загадување на воздухот. часовник итн? Дополнително, овие екрани се одлично место за прикажување на реклами на надворешните соработници. Изнајмувајте им го овој простор или временски слот за приказ на нивната реклама со што дополнително можете да ги зголемите Вашите приходи. 
 
-Now there is no more need for printing, no need for expensive menu casings, no more worries about the physical state of your menus, not more pamphlets with your special offers and discounts. Lower your costs, save the environment and maximize your profit with NeoSlide.
-
-Enjoy enhancing your service and improving your restaurant with NeoSlide!
+Повеќе нема да имате трошоци за принтање на менија и промотивни материја, скапи укоричување и врамувања, нема повеќе да се грижите за нивниот физички изглед или пак за нивната веродостојност, нема повеќе изработка и принтање на хартија на флаери со специјални понуди и попусти. Намалете ги Вашите трошоци, зголемете ги Вашите приходи со изнајмување на Вашите екрани за рекламни цели, заштитете ја животната средина со тоа што повеќе нема да принтате рекламни материјали на хартија и модернизирајте го Вашиот ресторан - само со NeoSlide Digital Signage!
