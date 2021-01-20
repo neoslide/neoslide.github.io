@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://neoslide.gitlab.io/website/blog/</loc>
-    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2021-01-10T14:51:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,41 @@
                 hreflang="mk"
                 href="https://neoslide.gitlab.io/website/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://neoslide.gitlab.io/website/</loc>
+    <lastmod>2021-01-10T14:51:12+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://neoslide.gitlab.io/website/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="https://neoslide.gitlab.io/website/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://neoslide.gitlab.io/website/blog/restaurants/</loc>
+    <lastmod>2021-01-10T14:51:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neoslide.gitlab.io/website/blog/hotels/</loc>
+    <lastmod>2021-01-09T14:51:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neoslide.gitlab.io/website/blog/gas-stations/</loc>
+    <lastmod>2021-01-09T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neoslide.gitlab.io/website/blog/autosalons/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
@@ -33,153 +68,33 @@
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/</loc>
+    <loc>https://neoslide.gitlab.io/website/blog/betting/</loc>
     <lastmod>2020-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/"
-                />
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-8/"
-                />
+    <loc>https://neoslide.gitlab.io/website/blog/retail/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/installation/"
-                />
+    <loc>https://neoslide.gitlab.io/website/blog/housing/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-1/"
-                />
+    <loc>https://neoslide.gitlab.io/website/blog/supermarkets/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-2/"
-                />
+    <loc>https://neoslide.gitlab.io/website/blog/transport/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neoslide.gitlab.io/website/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/blog/simple-blog-post-7/"
-                />
+    <loc>https://neoslide.gitlab.io/website/blog/institutions/</loc>
+    <lastmod>2020-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
@@ -211,31 +126,7 @@
   </url>
   
   <url>
-    <loc>https://neoslide.gitlab.io/website/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neoslide.gitlab.io/website/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neoslide.gitlab.io/website/en/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://neoslide.gitlab.io/website/author/mark-dinn/"
-                />
+    <loc>https://neoslide.gitlab.io/website/author/neoslide/</loc>
   </url>
   
   <url>

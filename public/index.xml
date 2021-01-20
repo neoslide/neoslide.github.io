@@ -7,113 +7,113 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>mk-mk</language>
     <copyright>Copyright &amp;copy; 2020 NeoSlide.mk</copyright>
-    <lastBuildDate>Sat, 12 Sep 2020 14:51:12 +0600</lastBuildDate><atom:link href="https://neoslide.gitlab.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 14:51:12 +0100</lastBuildDate><atom:link href="https://neoslide.gitlab.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Healthcare</title>
+      <title>Ресторани</title>
+      <link>https://neoslide.gitlab.io/website/blog/restaurants/</link>
+      <pubDate>Sun, 10 Jan 2021 14:51:12 +0100</pubDate>
+      
+      <guid>https://neoslide.gitlab.io/website/blog/restaurants/</guid>
+      <description>Модернизирајте го Вашиот ресторан со NeoSlide Digital Signage решението! Прикажете ги Вашите специјалитет на голем дигитален екран, Вашите специјални понуди на денот, прикажете ги Вашите менија на таблети, бидете поблиску до Вашите гости - сето тоа брзо, лесно и едноставно, со само неколку клика.</description>
+    </item>
+    
+    <item>
+      <title>Хотели</title>
+      <link>https://neoslide.gitlab.io/website/blog/hotels/</link>
+      <pubDate>Sat, 09 Jan 2021 14:51:12 +0100</pubDate>
+      
+      <guid>https://neoslide.gitlab.io/website/blog/hotels/</guid>
+      <description>Во туризмот позитивното искуство на самите гости е најбитно. Хотелите, мотелите, одморалиштата, рестораните и останатите туристички објекти може да ја подобрат својата репутација со обезбедување на незаворавно корисничко искуство во денешниот технолошки напреден свет, а Digital Signage имаат огромна улога во тоа.</description>
+    </item>
+    
+    <item>
+      <title>Бензински станици</title>
+      <link>https://neoslide.gitlab.io/website/blog/gas-stations/</link>
+      <pubDate>Sat, 09 Jan 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://neoslide.gitlab.io/website/blog/gas-stations/</guid>
+      <description>Кога станува збор за компанискиот пристап кон иновативноста, важно е да се обезбеди беспрекорна интеграција помеѓу клучните системи, процеси, работните протоколи и точките на пристап до самите корисници.</description>
+    </item>
+    
+    <item>
+      <title>Автосалони</title>
+      <link>https://neoslide.gitlab.io/website/blog/autosalons/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://neoslide.gitlab.io/website/blog/autosalons/</guid>
+      <description>NeoSlide Digital Signage решението е модерен начин за визуелен приказ на инфомации кон Вашите клиенти. Bo застапништво за автомобили NeoSlide можете да го искористите како алатка за маркетинг на Вашите производи, истакнување на вашиот бренд, информирање на Вашите услуги и пакети на еден модерен и технолошки напреден начин.</description>
+    </item>
+    
+    <item>
+      <title>Здравствени установи</title>
       <link>https://neoslide.gitlab.io/website/blog/healthcare/</link>
       <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
       <guid>https://neoslide.gitlab.io/website/blog/healthcare/</guid>
-      <description>Healthcare providers constantly deal with important, and often-life-threatening issues. Hospitals and clinics must be accessible and well suited to any visitor or patient, regardless of their age or health.</description>
+      <description>Здравствените установи секојдневно се справуваат со сериозни и често проблеми кои го загрозуваат животот. Болниците и клиниките секогаш мора да бидат лесно достапни и лесни за снаоѓање за секој посетител или пациент, без разлика на нивната возраст или здравствена состојба.</description>
     </item>
     
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Казина и обложувалници</title>
+      <link>https://neoslide.gitlab.io/website/blog/betting/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/betting/</guid>
+      <description>Што е првото нешто кое го прават гостите кога ќе влезат во казино? Ако им веруваме на холивудските филмови, нестрпливиот гостин прво ќе застане за момент да го примети и впие раскошниот декор.</description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://neoslide.gitlab.io/website/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Малопродажба</title>
+      <link>https://neoslide.gitlab.io/website/blog/retail/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/retail/</guid>
+      <description>Според истражувањата на Nielsen Consumer, Digital Signage решенијата за 400% повеќе го привлекуваат вниманието на купувачите отколку стандардните, статични реклами.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Станбени објекти</title>
+      <link>https://neoslide.gitlab.io/website/blog/housing/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/housing/</guid>
+      <description>Користењето на Digital Signage решенијата го промени начинот на дистрибуција на информации до голем број на крајни корисници.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Супермаркети</title>
+      <link>https://neoslide.gitlab.io/website/blog/supermarkets/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/supermarkets/</guid>
+      <description>Доколку ги запрашаме сопствениците на супермаркети која е нивната најболна точка, што мислите, кој ќе биде нивниот одговор?</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Транспорт и патување</title>
+      <link>https://neoslide.gitlab.io/website/blog/transport/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/transport/</guid>
+      <description>Обезбедувањето на најновите информации на патниците поврзани со нивното патување и престој (идеално, со цел нивно повторно враќање) е од круцијално значење.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Финансии, правни институции и осигурителни компании</title>
+      <link>https://neoslide.gitlab.io/website/blog/institutions/</link>
+      <pubDate>Sat, 12 Sep 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://neoslide.gitlab.io/website/blog/institutions/</guid>
+      <description>Користењето на Digital Signage решение во банките, осигурителните куќи или правните фирми се повеќе личи на Digital Signage решенијата во малопродажната трговија.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-6/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://neoslide.gitlab.io/website/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://neoslide.gitlab.io/website/blog/simple-blog-post-7/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://neoslide.gitlab.io/website/author/john-doe/</link>
+      <title>NeoSlide</title>
+      <link>https://neoslide.gitlab.io/website/author/neoslide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neoslide.gitlab.io/website/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://neoslide.gitlab.io/website/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://neoslide.gitlab.io/website/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://neoslide.gitlab.io/website/author/neoslide/</guid>
+      <description>Providing the best services to users</description>
     </item>
     
     <item>
