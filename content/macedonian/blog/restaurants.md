@@ -1,10 +1,10 @@
 ---
-title: "Ресторани и кафетерии"
-date: 2020-09-12T14:51:12+06:00
+title: "Ресторани"
+date: 2021-01-10T14:51:12+01:00
 author: neoslide
-image_webp: images/blog/healthcare.webp
-image: images/blog/healthcare.jpg
-description : "Healthcare usage"
+image_webp: images/blog/restaurants.webp
+image: images/blog/restaurants.jpg
+description : "Ресторани и кафетерии"
 ---
 
 Модернизирајте го Вашиот ресторан со NeoSlide Digital Signage решението! Прикажете ги Вашите специјалитет на голем дигитален екран, Вашите специјални понуди на денот, прикажете ги Вашите менија на таблети, бидете поблиску до Вашите гости - сето тоа брзо, лесно и едноставно, со само неколку клика. Искористете ги екраните во Вашиот простор, изнајмувајќи ги за рекламни цели, а со тоа зголемете ги Вашите месечни приходи.

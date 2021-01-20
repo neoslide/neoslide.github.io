@@ -2,9 +2,9 @@
 title: "Автосалони"
 date: 2020-09-12T14:51:12+06:00
 author: neoslide
-image_webp: images/blog/healthcare.webp
-image: images/blog/healthcare.jpg
-description : "Healthcare usage"
+image_webp: images/blog/autosalons.webp
+image: images/blog/autosalons.jpg
+description : "Употреба на NeoSlide во автосалони"
 ---
 NeoSlide Digital Signage решението е модерен начин за визуелен приказ на инфомации кон Вашите клиенти. Bo застапништво за автомобили NeoSlide можете да го искористите како алатка за маркетинг на Вашите производи, истакнување на вашиот бренд, информирање на Вашите услуги и пакети на еден модерен и технолошки напреден начин. NeoSlide ќе ви помогне значително да се разликувате од Вашата конкуренција.
 

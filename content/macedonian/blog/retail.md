@@ -2,8 +2,8 @@
 title: "Малопродажба"
 date: 2020-09-12T14:51:12+06:00
 author: neoslide
-image_webp: images/blog/healthcare.webp
-image: images/blog/healthcare.jpg
+image_webp: images/blog/retail.webp
+image: images/blog/retail.jpg
 description : ""
 ---
 Според истражувањата на Nielsen Consumer, Digital Signage решенијата за 400% повеќе го привлекуваат вниманието на купувачите отколку стандардните, статични реклами. Исто така, продавниците кои користеле Digital Signage имаат 33% поголема посетеност, a со тоа и зголемена продажба.

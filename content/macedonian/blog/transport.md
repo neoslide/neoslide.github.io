@@ -2,8 +2,8 @@
 title: "Транспорт и патување"
 date: 2020-09-12T14:51:12+06:00
 author: neoslide
-image_webp: images/blog/healthcare.webp
-image: images/blog/healthcare.jpg
+image_webp: images/blog/transport.webp
+image: images/blog/transport.jpg
 description : ""
 ---
 Обезбедувањето на најновите информации на патниците поврзани со нивното патување и престој (идеално, со цел нивно повторно враќање) е од круцијално значење. Веќе одамна не важи тврдењето дека патувањето е само начин за брзо и ефикасно пристигнување до крајната дестинација, туку вклучува многу повеќе.

@@ -1,9 +1,9 @@
 ---
 title: "Бензински станици"
-date: 2020-09-12T14:51:12+06:00
+date: 2021-01-09T14:00:00+01:00
 author: neoslide
-image_webp: images/blog/healthcare.webp
-image: images/blog/healthcare.jpg
+image_webp: images/blog/gas-station.webp
+image: images/blog/gas-station.jpg
 description : ""
 ---
 Кога станува збор за компанискиот пристап кон иновативноста, важно е да се обезбеди беспрекорна интеграција помеѓу клучните системи, процеси, работните протоколи и точките на пристап до самите корисници.
