@@ -15,7 +15,7 @@
 
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link" href=/#body">{{ site.Params.home }}</a></li>
+					<li class="nav-item"><a class="nav-link" href="/#body">{{ site.Params.home }}</a></li>
 					{{ if .IsHome }}
 					{{ range site.Menus.main }}
 					<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ i18n .Name }}</a></li>
