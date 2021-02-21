@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://neoslide.gitlab.io/website"
+baseURL = "https://neoslide.github.io"
 title = "NeoSlide"
 theme = "neoslide-web"
 # post pagination
