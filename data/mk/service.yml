@@ -24,7 +24,7 @@ service:
       content : 
 
     # service item loop
-    - name : Реално-временска синхронизација
+    - name : Синхронизација во реално време
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : 
 
