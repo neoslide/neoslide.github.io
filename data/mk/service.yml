@@ -6,32 +6,32 @@ service:
     # service item loop
     - name : 4К содржина
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Test Test Test
+      content : Приказ на содржините во највисок можен квалитет
       
     # service item loop
     - name : Интеграција со веб сервиси
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content :
+      content : YouTube, временска прогноза, полетувања, слетувања, загадување на воздух итн
       
     # service item loop
     - name : Интерактивни дигитални пораки
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Приказ на кајрон во долниот дел од екранот
 
     # service item loop
     - name : Rаспределба по зони
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Различни содржини на различна група од уреди
 
     # service item loop
     - name : Синхронизација во реално време
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Секоја промена веднаш се рефлектира на сите уреди
 
     # service item loop
     - name : Далечинско управување на уредите 
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Управувајте ги вашите уреди од било која локација
 
     # # service item loop
     # - name : Реално-временска синхронизација
