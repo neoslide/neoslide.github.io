@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : 4К содржина
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Тест тест тест
+      content :
       
     # service item loop
     - name : Интеграција со веб сервиси
