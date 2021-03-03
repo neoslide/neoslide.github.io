@@ -16,7 +16,7 @@ description : "Using NeoSlide in car dealerships"
 - Scrolling ticker of information and news
 - Your dealerships story and history
 
-   You can also use NeoSlide in your service department as vital part of your car dealership. By adding NeoSlide to your service area, you are adding to the customer experience by providing enjoyable entertainment that reduces the perceived wait-time. Also, NeoSLide can also be used to promote and cross-sell service specials and plans. Popular uses include:
+  You can also use NeoSlide in your service department as vital part of your car dealership. By adding NeoSlide to your service area, you are adding to the customer experience by providing enjoyable entertainment that reduces the perceived wait-time. Also, NeoSLide can also be used to promote and cross-sell service specials and plans. Popular uses include:
 - Display weather forecasts and scrolling news
 - Add a digital menu of services and pricing
 - Highlight service programs and specials
@@ -28,6 +28,6 @@ description : "Using NeoSlide in car dealerships"
 - Promotions –spotlight new service specials and coupons
 - Media slide shows rotating ads and specials
 
-   The great thing about NeoSlide is that you can use it on small, tablet displays, next to your vehicles, where you can display rotating images or video about the vehicle, like various color variants of the vehicle, additional improvements and gear, vehicle performance etc. Also, you can add additional menu with detailed information and price plans in which the customer can easily and intuitively swipe through the menu tabs.
+  The great thing about NeoSlide is that you can use it on small, tablet displays, next to your vehicles, where you can display rotating images or video about the vehicle, like various color variants of the vehicle, additional improvements and gear, vehicle performance etc. Also, you can add additional menu with detailed information and price plans in which the customer can easily and intuitively swipe through the menu tabs.
 
    With NeoSlide you can offer great experience inside your car dealership, both educational, informational and interactive and will make your customers never forget when they visited your facility and your offers.
