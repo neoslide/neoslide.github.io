@@ -16,7 +16,7 @@ portfolio:
       image_webp : # images/portfolio/portfolio-1.webp
       categories : ["спорт"]
       content : Уредите се поставени во продажната мрежа на компанијата.
-      link : "https://neotel.mk/"
+      link : "http://www.popovwinery.com.mk"
 
     - name : Винарија Попов
       image : images/portfolio/popov.png
@@ -30,7 +30,7 @@ portfolio:
       image_webp : # images/portfolio/portfolio-1.webp
       categories : ["услужни дејности"]
       content : Уредите се поставени во продажната мрежа на компанијата.
-      link : "https://neotel.mk/"
+      link : "http://www.vinart.com.mk/"
 
 
     # # portfolio item loop
