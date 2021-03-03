@@ -32,13 +32,3 @@ service:
     - name : Далечинско управување на уредите 
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Управувајте ги вашите уреди од било која локација
-
-    # # service item loop
-    # - name : Реално-временска синхронизација
-    #   icon : ti-package # themify icon pack : https://themify.me/themify-icons
-    #   content : 
-
-    # # service item loop
-    # - name : Далечинско менаџирање на уредите 
-    #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-    #   content : 

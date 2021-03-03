@@ -16,7 +16,7 @@ portfolio:
       image_webp : # images/portfolio/portfolio-1.webp
       categories : ["sports"]
       content : Devices are installed in the company offices.
-      link : "https://neotel.mk/"
+      link : "https://www.specialolympics.org/"
 
     - name : Popov Vinary
       image : images/portfolio/popov.png
@@ -30,4 +30,4 @@ portfolio:
       image_webp : # images/portfolio/portfolio-1.webp
       categories : ["service industry"]
       content : Devices are part of the company offices.
-      link : "http://www.vinart.com.mk"
+      link : "http://www.vinart.com.mk/eng/default.aspx"
