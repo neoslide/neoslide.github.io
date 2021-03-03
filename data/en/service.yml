@@ -5,30 +5,30 @@ service:
   service_item :
     # service item loop
     - name : 4K Content
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
       content : Show content in the highest possible quality.
 
     # service item loop
     - name : Web services integration
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : YouTube, weather forecast, airplane arrivals, departures, air quality information etc.
 
     # service item loop
     - name : Interactive digital messages
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : ti-layout-media-overlay # themify icon pack : https://themify.me/themify-icons
       content : Showing messages in a moving text format on the bottom of the screen.
       
     # service item loop
     - name : Distribution by zones
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon : ti-view-grid # themify icon pack : https://themify.me/themify-icons
       content : Different content on different groups of devices.
 
     # service item loop
     - name : Real-time synchronization
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
       content : Manage your playlist and devices in a blink of an eye.
 
     # service item loop
     - name : Remote management of devices
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Control your devices from any location.
