@@ -124,7 +124,7 @@ languageCode = "mk-mk"
 contentDir = "content/macedonian"
 weight = 1
 home = "Почеток"
-copyright = "Copyright &copy; 2020 NeoSlide.mk"
+copyright = "Copyright &copy; 2021 NeoSlide.mk"
 
 
 ################################ English Language ########################
@@ -134,5 +134,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2021 NeoSlide"
+copyright = "Copyright &copy; 2021 NeoSlide.mk"
 
